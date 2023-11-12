@@ -1,7 +1,7 @@
 pipeline {
     agent { 
         node {
-            label 'i-0f86202e4c3690830'
+            label 'nataas-deploy'
             }
       }
     triggers {
